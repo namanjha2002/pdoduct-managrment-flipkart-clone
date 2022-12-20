@@ -1,0 +1,19 @@
+{
+  "name": "product-managrment-flipkart-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namanjha2002/pdoduct-managrment-flipkart-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namanjha2002/pdoduct-managrment-flipkart-clone/issues"
+  },
+  "homepage": "https://github.com/namanjha2002/pdoduct-managrment-flipkart-clone#readme"
+}
